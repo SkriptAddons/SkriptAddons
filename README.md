@@ -1,2 +1,0 @@
-# SkriptAddons
-SkriptAddons
